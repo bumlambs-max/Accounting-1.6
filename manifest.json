@@ -1,0 +1,17 @@
+{
+  "name": "Farm Accounting",
+  "short_name": "FarmAccounts",
+  "description": "Professional AI-powered livestock and field ledger management.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2654/2654504.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
